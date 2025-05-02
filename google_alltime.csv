@@ -1,9 +1,9 @@
-ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link ,status
 388,Longest Absolute File Path,41.8%,Medium,5.913085890375435, https://leetcode.com/problems/longest-absolute-file-path
 683,K Empty Slots,35.6%,Hard,5.780765145104477, https://leetcode.com/problems/k-empty-slots
 681,Next Closest Time,45.0%,Medium,5.648444399833518, https://leetcode.com/problems/next-closest-time
 1,Two Sum,45.6%,Easy,5.644982903520936, https://leetcode.com/problems/two-sum
-929,Unique Email Addresses,67.4%,Easy,5.641251480795916, https://leetcode.com/problems/unique-email-addresses
+929,Unique Email Addresses,67.4%,Easy,5.641251480795916, https://leetcode.com/problems/unique-email-addresses,Done
 904,Fruit Into Baskets,42.5%,Medium,5.622005350773675, https://leetcode.com/problems/fruit-into-baskets
 482,License Key Formatting,43.1%,Easy,5.489684605502716, https://leetcode.com/problems/license-key-formatting
 308,Range Sum Query 2D - Mutable,35.6%,Hard,5.479895265007681, https://leetcode.com/problems/range-sum-query-2d-mutable
